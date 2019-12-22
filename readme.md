@@ -50,7 +50,7 @@ If `gkps.py` finish with successful response, files will be copied in a timed fo
   - `results_true.csv` contains only successful responses
   - `results_false.csv` contains only failed responses
 
-Generated files from the last commande are in the same directory and will be overridden on next attempt.
+Generated files from the last commande are also in the root directory and will be overridden on next attempt.
 
 After some tweaks (or not) you can re launch the party with this command until you cannot retrieve any good data.
 
